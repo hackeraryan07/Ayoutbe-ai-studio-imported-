@@ -1,0 +1,40 @@
+/app/applet
+├── .env.example
+├── .github
+|  └── workflows
+|     └── build.yml
+├── .gitignore
+├── README.md
+├── app
+|  ├── .gitignore
+|  ├── build.gradle
+|  ├── build.gradle.kts
+|  ├── proguard-rules.pro
+|  └── src
+|     ├── androidTest
+|     |  └── java
+|     ├── main
+|     |  ├── AndroidManifest.xml
+|     |  ├── java
+|     |  └── res
+|     └── test
+|        ├── java
+|        └── screenshots
+├── assets
+|  └── .aistudio
+|     └── .gitignore
+├── build.gradle
+├── build.gradle.kts
+├── gradle
+|  ├── libs.versions.toml
+|  └── wrapper
+|     └── gradle-wrapper.properties
+├── gradle.properties
+├── gradlew
+├── local.properties
+├── metadata.json
+├── settings.gradle
+└── settings.gradle.kts
+
+directory: 16 file: 20
+
